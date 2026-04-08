@@ -19,7 +19,7 @@ void solve() {
         a.insert(x);
     }
     cout << a.size() << "\n";
-    for (int x : a) {
+    for (int x: a) {
         cout << x << " ";
     }
     cout << "\n";
